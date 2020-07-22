@@ -1,0 +1,1 @@
+This is the tensorflow based implementation of the paper, Densely Connected CNN with Multi-scale Feature Attention for Text Classification (Densely Connected CNN with Multi-scale Feature Attention for Text Classification)
